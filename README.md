@@ -15,25 +15,25 @@ This project reflects my ability to:
 
 ✔ Work directly with OpenAI LLMs
 
-Configure models
+- Configure models
 
-Generate predictions
+- Generate predictions
 
-Control temperature and output behavior
+- Control temperature and output behavior
 
 ✔ Build reusable and dynamic prompts
 
-Using PromptTemplate, I created structured prompts that accept variables (like cuisine types) to generate restaurant names and menu items.
+- Using PromptTemplate, I created structured prompts that accept variables (like cuisine types) to generate restaurant names and menu items.
 
 ✔ Create LLM Chains & Multi-Step Pipelines
 
-I built multiple kinds of chains:
+- I built multiple kinds of chains:
 
-LLMChain – basic chain with templates
+- LLMChain – basic chain with templates
 
-SimpleSequentialChain – flows output → input
+- SimpleSequentialChain – flows output → input
 
-SequentialChain – more advanced chain with named inputs/outputs
+- SequentialChain – more advanced chain with named inputs/outputs
 
 Example pipeline I implemented:
 
@@ -43,33 +43,33 @@ Step 2: Generate menu items for that restaurant
 
 ✔ Implement Agents with external tools
 
-I integrated Agents using:
+- I integrated Agents using:
 
-SerpAPI → for online search
+- SerpAPI → for online search
 
-Wikipedia → for factual lookup
+- Wikipedia → for factual lookup
 
-LLM-Math → for numerical reasoning
+- LLM-Math → for numerical reasoning
 
-I built agent examples that:
+- I built agent examples that:
 
-Search GDP values, then perform math
+- Search GDP values, then perform math
 
-Retrieve information (e.g., Elon Musk’s birth year) and compute age
+- Retrieve information (e.g., Elon Musk’s birth year) and compute age
 
-This demonstrates tool-use, reasoning, and agent action tracing.
+- This demonstrates tool-use, reasoning, and agent action tracing.
 
 ✔ Add Memory to conversations
 
-I implemented multiple memory classes:
+- I implemented multiple memory classes:
 
-ConversationBufferMemory – stores full conversation
+- ConversationBufferMemory – stores full conversation
 
-ConversationBufferWindowMemory – stores last k interactions
+- ConversationBufferWindowMemory – stores last k interactions
 
-ConversationChain – ready-made chat model with memory
+- ConversationChain – ready-made chat model with memory
 
-These examples show how previous inputs influence the conversation in real-time.
+- These examples show how previous inputs influence the conversation in real-time.
 
 ## 🧠 Skills Demonstrated
 
