@@ -2,14 +2,14 @@
 
 A hands-on project showcasing my ability to build intelligent workflows using LangChain, OpenAI, Agents, and Memory.
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project demonstrates my practical experience working with LangChain, Large Language Models, and tool-augmented AI pipelines.
 I built this project end-to-end to understand how LLMs work in real-world scenarios, how prompts can be structured, and how multi-step AI workflows can be automated.
 
 The code includes various LangChain components such as LLMs, Prompt Templates, Chains, Agents, and Memory — all integrated to show how AI systems can perform reasoning, tool usage, and conversational continuity.
 
-🎯 What This Project Demonstrates
+## 🎯 What This Project Demonstrates
 
 This project reflects my ability to:
 
@@ -71,7 +71,7 @@ ConversationChain – ready-made chat model with memory
 
 These examples show how previous inputs influence the conversation in real-time.
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 This project reflects my hands-on experience with:
 
@@ -89,7 +89,7 @@ Working with external APIs
 
 Structuring AI applications in Python
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Python
 
@@ -101,7 +101,7 @@ SerpAPI
 
 Wikipedia Python Client
 
-📂 Code Summary
+## 📂 Code Summary
 
 The main script includes sections for:
 
@@ -119,7 +119,7 @@ Conversation memory examples
 
 I organized the code in a way that each component can be run independently for testing and learning.
 
-🚀 Why I Built This
+## 🚀 Why I Built This
 
 I created this project to strengthen my understanding of practical LLM development and to showcase my capability to:
 
@@ -135,7 +135,7 @@ Implement memory-enabled chat agents
 
 This project demonstrates my readiness for roles involving AI engineering, LLM integration, generative AI applications, and intelligent automation.
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 I plan to extend the project with:
 
